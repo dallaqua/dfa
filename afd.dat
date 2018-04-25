@@ -1,0 +1,13 @@
+p0 a p1 b p0
+p1 a p2 b p0
+p2 a pf b p0
+pf a pf b p0
+#
+p0
+#
+pf
+#
+e
+bbbaabaaaa
+babababaaab
+0123
